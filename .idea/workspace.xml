@@ -17,11 +17,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AnyBasetoDecimal.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Discount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-515">
-              <caret line="246" column="38" lean-forward="true" selection-start-line="246" selection-start-column="38" selection-end-line="246" selection-end-column="38" />
+            <state relative-caret-position="137">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HappyLadybugs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -34,6 +55,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -79,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/QuicksortAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/GcdOfArray.java" />
         <option value="$PROJECT_DIR$/src/AnyBasetoDecimal.java" />
+        <option value="$PROJECT_DIR$/src/MainTest.java" />
       </list>
     </option>
   </component>
@@ -94,11 +119,13 @@
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,11 +142,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/AccountTest.java" />
   </component>
   <component name="RunDashboard">
@@ -134,14 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnyBasetoDecimal">
-    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AccountTest" />
-      <module name="Hacker Rank Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainTest">
     <configuration name="AnyBasetoDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnyBasetoDecimal" />
       <module name="Hacker Rank Problems" />
@@ -149,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BookTest" />
+    <configuration name="Discount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Discount" />
       <module name="Hacker Rank Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,6 +178,13 @@
     </configuration>
     <configuration name="GcdOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GcdOfArray" />
+      <module name="Hacker Rank Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
       <module name="Hacker Rank Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -172,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.Discount" />
         <item itemvalue="Application.AnyBasetoDecimal" />
         <item itemvalue="Application.GcdOfArray" />
         <item itemvalue="Application.QuicksortAlgorithm" />
-        <item itemvalue="Application.AccountTest" />
-        <item itemvalue="Application.BookTest" />
       </list>
     </recent_temporary>
   </component>
@@ -195,13 +222,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.3984221" side_tool="true" weight="0.27785236" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.60157794" visible="true" weight="0.30604026" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.60157794" visible="true" weight="0.31073827" />
       <window_info id="Structure" order="6" sideWeight="0.5009862" side_tool="true" weight="0.27785236" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -209,7 +237,7 @@
       <window_info anchor="bottom" id="Messages" order="3" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.9560906" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.39943343" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.31161472" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -380,16 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HappyLadybugs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StrangeCounter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -486,13 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="28" selection-start-line="27" selection-start-column="12" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Discount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -675,8 +686,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AnyBasetoDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-515">
-          <caret line="246" column="38" lean-forward="true" selection-start-line="246" selection-start-column="38" selection-end-line="246" selection-end-column="38" />
+        <state relative-caret-position="408">
+          <caret line="269" column="5" lean-forward="true" selection-start-line="269" selection-start-column="5" selection-end-line="269" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Discount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HappyLadybugs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
