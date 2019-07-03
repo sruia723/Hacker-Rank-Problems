@@ -69,9 +69,5 @@ public class ArraysDemo {
             }
             System.out.println();
         }
-
-
-
-
     }
 }
